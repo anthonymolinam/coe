@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 595" style="enable-background:new 0 0 1920 595;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFF9FE;}
+	.st1{clip-path:url(#SVGID_00000038395801332716513690000006448919171359099286_);}
+	.st2{opacity:0.78;fill:#F9E6ED;enable-background:new    ;}
+	.st3{opacity:0.35;fill:#F2B3C9;enable-background:new    ;}
+	.st4{opacity:9.000000e-02;fill:#D5012B;enable-background:new    ;}
+</style>
+<path class="st0" d="M0,0h1920v595H0V0z"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="1300" width="620" height="595"/>
+	</defs>
+	<clipPath id="SVGID_00000042731829646265566040000016838538890010320823_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000042731829646265566040000016838538890010320823_);">
+		<circle class="st2" cx="1553.5" cy="194.5" r="253.5"/>
+		<circle class="st3" cx="1858.5" cy="194.5" r="253.5"/>
+		<ellipse class="st4" cx="1714.5" cy="460.5" rx="259.5" ry="253.5"/>
+	</g>
+</g>
+</svg>
